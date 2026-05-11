@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Figuras Geométricas</string>
+    
+    <!-- Pestañas -->
+    <string name="tab_cuadrado">Cuadrado</string>
+    <string name="tab_rectangulo">Rectángulo</string>
+    <string name="tab_triangulo">Triángulo</string>
+    <string name="tab_circulo">Círculo</string>
+    
+    <!-- Cuadrado -->
+    <string name="label_lado">Lado (cm):</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="label_area">Área:</string>
+    <string name="label_perimetro">Perímetro:</string>
+    <string name="resultado_vacio">Ingresa los datos</string>
+    
+    <!-- Rectángulo -->
+    <string name="label_base">Base (cm):</string>
+    <string name="label_altura">Altura (cm):</string>
+    
+    <!-- Triángulo -->
+    <string name="label_lado_a">Lado A (cm):</string>
+    <string name="label_lado_b">Lado B (cm):</string>
+    <string name="label_lado_c">Lado C (cm):</string>
+    <string name="label_altura_triangulo">Altura (cm):</string>
+    <string name="label_base_triangulo">Base (cm):</string>
+    
+    <!-- Círculo -->
+    <string name="label_radio">Radio (cm):</string>
+    <string name="label_diametro">Diámetro (cm):</string>
+</resources>

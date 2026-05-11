@@ -1,0 +1,68 @@
+# Gradle files
+.gradle
+/.gradle
+build/
+.gradle/
+
+# Local configuration file
+local.properties
+
+# Build generated files
+bin/
+gen/
+.idea/
+*.iml
+
+# Android Studio specific
+.idea/
+.iml
+*.iml
+*.class
+*.dex
+*.apk
+*.ap_
+*.jar
+*.jks
+
+# Local environment
+.DS_Store
+.buildconfig
+
+# Gradle wrapper
+.gradle/wrapper/dists
+
+# Runtime data
+*.db
+*.sqlite
+
+# Proguard specifics
+mapping.txt
+configuration.txt
+dump.txt
+
+# Generated files
+R.java.bak
+
+# Cache
+.cache/
+
+# Log files
+*.log
+
+# Navigation files
+navigation.json
+
+# Covers JetBrains IDEs
+*.iws
+*.ipr
+*.iml
+.idea/
+
+# Keystore files - if you want to use your own keystore, you will want to unencrypt and place it in the same directory as build.gradle
+*.jks
+*.keystore
+
+# Google Services
+google-services.json
+
+# Miscellaneous
